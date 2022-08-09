@@ -8,20 +8,20 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Afx-Abu/Abu-Wa-Bot.git"
+    "url": "git+https://github.com/7asil/Abu-Wa-Bot.git"
   },
   "keywords": [
     "whatsapp",
     "bot",
     "multi-device"
   ],
-  "author": "Afx-Abu",
-  "developer": "@Afx-Abu",
+  "author": "7asil",
+  "developer": "@7asil",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/Afx-Abu/Abu-Wa-Bot/issues"
+    "url": "https://github.com/7asil/Abu-Wa-Bot/issues"
   },
-  "homepage": "https://github.com/Afx-Abu/Abu-Wa-Bot#readme",
+  "homepage": "https://github.com/7asil/Abu-Wa-Bot#readme",
   "dependencies": {
     "@adiwajshing/baileys": "4.3.0",
     "@adiwajshing/keyed-db":"0.2.4",
